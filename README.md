@@ -95,13 +95,18 @@ This project is licensed under the 0BSD License - see the [LICENSE](LICENSE) fil
 
 ## 👥 Team
 
-- [Your Name] - Lead Developer
-- [Team Member 2] - UI/UX Designer
-- [Team Member 3] - Backend Developer
+- Shalabh Singh Yadav - Lead Developer
+- Shalabh Singh Yadav - UI/UX Designer
+- Shalabh Singh Yadav - Backend Developer
 
-## 📞 Support
+## 📬 Contact
 
-For support, email support@rstraders.com or join our Slack channel.
+If you have any questions or want to discuss the project, feel free to reach out:
+- **Name**: Shalabh Singh Yadav
+- **Email**: [shalabhsinghyadav@gmail.com](mailto:shalabhsinghyadav@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shalabh-singh-yadav-66b607204/)
+- **Tableau**: [Tableau Profile](https://public.tableau.com/app/profile/shalabh.yadav/vizzes)
+
 
 ---
 
