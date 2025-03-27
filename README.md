@@ -1,7 +1,6 @@
 # RS Traders Mobile App 🚀
 
 <div align="center">
-  <img src="assets/logo.png" alt="RS Traders Logo" width="200"/>
   
   [![React Native](https://img.shields.io/badge/React_Native-0.76.7-blue.svg)](https://reactnative.dev/)
   [![Expo](https://img.shields.io/badge/Expo-52.0.37-black.svg)](https://expo.dev/)
